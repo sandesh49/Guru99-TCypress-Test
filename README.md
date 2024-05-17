@@ -1,7 +1,7 @@
 Automated Testing Assessment--------
 This repository contains scripts for automated testing of various functionalities on the Guru99 Insurance site. Below is an overview of each script included in this assessment:
 
-**Note - some of the test cases in login, user profile, and Edit profile could not be covered because of UI issues on the test site. There were some functional and UI issues that blocked me from writing complete test cases for login , profile and Edit profile.**
+**Note - some of the test cases in login, user profile, and Edit profile could not be covered because of UI issues on the test site. Some functional and UI issues blocked me from writing complete test cases for login, profile, and Edit profile.**
 
 
 Scripts Overview
